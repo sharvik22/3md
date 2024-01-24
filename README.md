@@ -32,12 +32,15 @@
 
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/2-7.png)
 
+Crontab
+![alt text](https://github.com/sharvik22/3md/blob/main/images/2-5.png)
+![alt text](https://github.com/sharvik22/3md/blob/main/images/2-6.png)
+
 
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/2-2.png)
 
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/2-4.png)
-![alt text](https://github.com/sharvik22/3md/blob/main/images/2-5.png)
-![alt text](https://github.com/sharvik22/3md/blob/main/images/2-6.png)
+
 
 ---
 
