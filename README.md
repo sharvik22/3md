@@ -20,15 +20,24 @@
 - На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
 ### Решение 2:
-### Резервное копирование домашней директории с машины MV2 на машину MV1 c ипользованием SSH-ключа.
+### Резервное копирование по сети с использованием SSH-ключа домашней директории машины MV2 (/home/admon/) на машину MV1 (/tmp/backup/):
 
-![alt text](https://github.com/sharvik22/3md/blob/main/images/2-1.png)
-![alt text](https://github.com/sharvik22/3md/blob/main/images/2-2.png)
+Содержимое домашней директории MV1
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/2-3.png)
+
+Содержимое папки tmp MV2
+![alt text](https://github.com/sharvik22/3md/blob/main/images/2-1.png)
+
+Скрипт
+![alt text](https://github.com/sharvik22/3md/blob/main/images/2-7.png)
+
+
+![alt text](https://github.com/sharvik22/3md/blob/main/images/2-2.png)
+
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/2-4.png)
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/2-5.png)
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/2-6.png)
-![alt text](https://github.com/sharvik22/3md/blob/main/images/2-7.png)
+
 ---
 
 ## Задания со звёздочкой*
