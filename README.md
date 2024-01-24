@@ -7,7 +7,8 @@
 - На проверку направить скриншот с командой и результатом ее выполнения
 
 ### Решение 1
-
+![alt text](https://github.com/sharvik22/3md/blob/main/images/1-1.png)
+![alt text](https://github.com/sharvik22/3md/blob/main/images/1-2.png)
 ---
 
 ### Задание 2
