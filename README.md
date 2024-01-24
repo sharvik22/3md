@@ -20,7 +20,12 @@
 - На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
 ### Решение 2
-
+![alt text](https://github.com/sharvik22/3md/blob/main/images/2-1.png)
+![alt text](https://github.com/sharvik22/3md/blob/main/images/2-2.png)
+![alt text](https://github.com/sharvik22/3md/blob/main/images/2-3.png)
+![alt text](https://github.com/sharvik22/3md/blob/main/images/2-4.png)
+![alt text](https://github.com/sharvik22/3md/blob/main/images/2-5.png)
+![alt text](https://github.com/sharvik22/3md/blob/main/images/2-6.png)
 ---
 
 ## Задания со звёздочкой*
