@@ -22,10 +22,10 @@
 ### Решение 2:
 ### Резервное копирование по сети с использованием SSH-ключа домашней директории машины MV2 (/home/admon/) на машину MV1 (/tmp/backup/):
 
-Содержимое домашней директории MV1
+Содержимое домашней директории MV2
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/2-3.png)
 
-Содержимое папки tmp MV2
+Содержимое папки tmp MV1
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/2-1.png)
 
 Скрипт
