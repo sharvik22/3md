@@ -37,11 +37,12 @@ Crontab
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/2-5.png)
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/2-6.png)
 
+Лог Crontab (для проверки был настроет на выполнение через 1 минуту)
 
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/2-2.png)
 
+Содержимое папки tmp MV1
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/2-4.png)
-
 
 ---
 
