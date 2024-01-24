@@ -29,6 +29,7 @@
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/2-1.png)
 
 Скрипт
+
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/2-7.png)
 
 
