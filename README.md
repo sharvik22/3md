@@ -8,6 +8,7 @@
 
 ### Решение 1
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/1-1.png)
+![alt text](https://github.com/sharvik22/3md/blob/main/images/1-3.png)
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/1-2.png)
 ---
 
